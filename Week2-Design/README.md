@@ -6,11 +6,12 @@ the following elements:
 + Players, Objectives, Procedures, Rules, Resources,
 Conflict, Boundaries and Outcome
 
+
+
 ### Age of Empires 2 / Star Wars Galactic Battlegrounds
 
 ![Age of Empires 2 Cover](cover-AoE2.png)
 ![Star Wars - Galactic Battlegrounds Cover](cover-SW-GB.png)
-
 
 
 #### Players
@@ -27,6 +28,10 @@ Usually they are the same, except for campaign, when they may differ:
   + extend your economy - more mines, more workers, "passive" income (gold through relics or gold through trading), trading
   + build an army
   + defend against / attack enemies
+
+Employ `various strategies` in order to achieve your objective:
++ `rushing` attack against enemy economy: http://www.forgottenempires.net/aof/strategy/feudal-rushing
++ `fast castle`: https://www.quora.com/In-Age-of-Empires-II-what-is-the-build-order-for-a-fast-castle
 
 #### Procedures
 
@@ -58,6 +63,9 @@ Contextual commands - `Building`:
 + you can only control your troops / building
 + most games have fog-of-war
 + you can change diplomacy stances (unless locked)
++ rock-paper-scissor with units
+
+![](http://www.forgottenempires.net/wp-content/uploads/counters_feudal_groups.png)
 
 #### Conflict
 + you have one or more enemies that you have to beat
@@ -75,3 +83,10 @@ Victory conditions:
 + monument win (built monument that withstood 100 days)
 + economic win (first to reach sum) ???
 
+### Game design issues
+
+![](http://weknowmemes.com/wp-content/uploads/2013/03/age-of-empires-2-logic-memes.jpg)
+![](https://i.ytimg.com/vi/kL9lPGo4JGI/hqdefault.jpg)
+![](http://i3.kym-cdn.com/photos/images/facebook/000/128/960/memes-hit-farm-with-sword.jpg)
+![](http://img.memecdn.com/age-of-empires-logic_o_1168667.jpg)
+![]()
