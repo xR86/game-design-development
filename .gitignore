@@ -4,8 +4,13 @@ Week2-Unity/Assets/Standard Assets/
 Week2-UE4/
 Week4UE4/
 Week4-Unity/
-Week10UE4/
 Week7UE4/
+Week11UE4/
+vegetation_pack/
+
+LocomotionTest/
+Week10UE4/
+Week10-Unity/
 
 #week 5
 Week6UE4/
@@ -14,6 +19,9 @@ Week6-Unity/
 # Ignore safe files / folders
 safe_*
 safe_*/
+
+# Ignore assets / packs
+vegetation_pack.rar
 
 # ---
 # Updated default gitignore for UE4
