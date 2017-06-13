@@ -13,7 +13,6 @@ Week10UE4/
 Week10-Unity/
 
 #week 5
-Week6UE4/
 Week6-Unity/
 
 # Ignore safe files / folders
@@ -22,6 +21,7 @@ safe_*/
 
 # Integrated, Retrieve metadata and remove
 _Week4UE4/
+_Week6UE4/
 
 # Ignore assets / packs
 vegetation_pack.rar
