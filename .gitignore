@@ -3,7 +3,6 @@ Week1-Unity/
 Week2-Unity/Assets/Standard Assets/
 Week2-UE4/
 Week4-Unity/
-Week7UE4/
 Week11UE4/
 vegetation_pack/
 Week12UE4top/
@@ -22,6 +21,7 @@ safe_*/
 # Integrated, Retrieve metadata and remove
 _Week4UE4/
 _Week6UE4/
+_Week7UE4/
 
 # Ignore assets / packs
 vegetation_pack.rar
