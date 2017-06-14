@@ -40,7 +40,7 @@ After mission A is finished, you will have a much higher chance to trigger missi
 Obs: `Joint probability` can occur in this context if both events are triggered and the player must choose one of those (and, such that the decision is meaningful, it should have a consequence).
 
 
-![](Map.png)
+![](assets/Week11/Map.png)
 > An example map
 
 
@@ -56,5 +56,5 @@ We can view this map as a dynamic Markov Chain, based on the player position:
 If A -> B (A related to B) => there should be a higher conditional probability
 
 
-![](Diagram.png)
+![](assets/Week11/Diagram.png)
 > A formalization of the previous map

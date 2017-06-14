@@ -10,8 +10,8 @@ Conflict, Boundaries and Outcome
 
 ### Age of Empires 2 / Star Wars Galactic Battlegrounds
 
-![Age of Empires 2 Cover](cover-AoE2.png)
-![Star Wars - Galactic Battlegrounds Cover](cover-SW-GB.png)
+![Age of Empires 2 Cover](assets/Week2/cover-AoE2.png)
+![Star Wars - Galactic Battlegrounds Cover](assets/Week2/cover-SW-GB.png)
 
 
 #### Players
