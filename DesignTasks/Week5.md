@@ -11,7 +11,7 @@ to create a state of flow for the first player. (2 min)
 
 ## Siege (inspired by Gwent)
 
-![](gwent.png)
+![](assets/Week5/gwent.png)
 > Gwent Example
 
 Second player (AI/system) is in defense, protecting a castle. Castle has a number of hitpoints.

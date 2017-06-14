@@ -6,7 +6,7 @@ one meaningful and two meaningless decisions.
 
 
 ## "Not-Hearthstone" (inspired by "Not - Magic: The Gathering")
-![](assets/Cardgame_ui.jpg)
+![](assets/Week4/Cardgame_ui.jpg)
 
 
 ### Rules & Mechanics
@@ -17,10 +17,10 @@ A player has 3 abilities:
 + an ability with `2 mana`, `once per turn` (class specific) - similar to Hearthstone, you either use your mana on cards or on ability
 + an ability that `consumes all mana` (all mana or all mana left ?), `once per game` (player chosen) - player saving (prolongs the game)
 
-![](assets/Cardgame_relics-inspiration.jpg)
+![](assets/Week4/Cardgame_relics-inspiration.jpg)
 > Similar to relics in Smite (season 3), for example a correspondent of Sanctuary would be the Iceblock (secret, mage class)
 
-![](assets/Cardgame_hs_ex_ability_full.jpg)
+![](assets/Week4/Cardgame_hs_ex_ability_full.jpg)
 > You could take known cards and give them as a ability to any class / somehow buff them. For example, Unstable portal could consume all mana and you could get 2 random minions in your hand
 
 Why ?
@@ -42,7 +42,7 @@ Some further rules:
 + if you are in defence, the opponent has to attack (taunt can't be silenced)
 + stats varied by stance
 
-![](assets/Cardgame_blocker-Dia.jpg)
+![](assets/Week4/Cardgame_blocker-Dia.jpg)
 > Some common blocker card from Duel Masters
 
 
@@ -58,10 +58,10 @@ eg:  or
 
 **Examples**
 
-![](assets/Cardgame_planeswalker-Elspeth.jpg)
+![](assets/Week4/Cardgame_planeswalker-Elspeth.jpg)
 > Elspeth, Knight-Errant
 
-![](assets/Cardgame_planeswalker-Sorin.jpg)
+![](assets/Week4/Cardgame_planeswalker-Sorin.jpg)
 > Sorin, Lord of Innistrad
 
 
