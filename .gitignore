@@ -1,5 +1,5 @@
 # Temporary
-Week1-UE4/
+Week1-UE4/Content
 Week2-UE4/
 vegetation_pack/
 
@@ -31,6 +31,7 @@ vegetation_pack.rar
 
 # ---
 # Updated default gitignore for UE4
+# ---
 # Visual Studio 2015 user specific files
 **/.vs/
 
@@ -104,6 +105,7 @@ vegetation_pack.rar
 
 # ---
 # Updated default gitignore for Unity
+# ---
 **/[Ll]ibrary/
 **/[Tt]emp/
 **/[Oo]bj/
